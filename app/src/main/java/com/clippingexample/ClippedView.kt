@@ -1,14 +1,11 @@
 package com.clippingexample
 
-import android.app.Activity
 import android.content.Context
 import android.graphics.*
 import android.os.Build
 import android.util.AttributeSet
-import android.view.View
-import android.util.DisplayMetrics
 import android.util.Log
-import android.util.TypedValue
+import android.view.View
 
 
 class ClippedView @JvmOverloads constructor(
