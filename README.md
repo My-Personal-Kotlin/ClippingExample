@@ -1,0 +1,2 @@
+# ClippingExample
+Canvas + Clipping + Path
